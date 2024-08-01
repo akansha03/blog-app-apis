@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.codewithakansha.blog.blogappapis.BlogAppApisApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.547 s -- in com.codewithakansha.blog.blogappapis.BlogAppApisApplicationTests
